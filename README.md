@@ -24,8 +24,6 @@ Cookify is your on-the-go app for any delicious food recipes. Over 1,000,000 rec
 
 # License
 
-### API
-
 This project is powered by [Forkify API](https://forkify-api.herokuapp.com).
 
 ### Source Code License
