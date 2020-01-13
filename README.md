@@ -1,4 +1,4 @@
-# Cookify — Your Kitchen Companion
+# Cookify — Kitchen Companion
 Cookify is your on-the-go app for any delicious food recipes. Over 1,000,000 recipes now at your fingertips. An app which serves as your own cookbook, an incredible search tool and a personalized shopping list. Powered by Forkify API.
 
 <br>
