@@ -6,7 +6,7 @@ Cookify is your on-the-go app for any delicious food recipes. Over 1,000,000 rec
   <img src="https://bellmcp.work/img/Projects_xPense.jpg" />
 </p>
 
-# Demo
+# Install Guide
 
 * [bellmcp.work/demo/xPense](https://bellmcp.work/demo/xPense)
 
