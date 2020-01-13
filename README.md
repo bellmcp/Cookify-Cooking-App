@@ -3,7 +3,7 @@ Cookify is your on-the-go app for any delicious food recipes. Over 1,000,000 rec
 
 <br>
 <p align="center">
-  <img src="https://bellmcp.work/img/Projects_xPense.jpg" />
+  <img src="https://bellmcp.work/img/Projects_Cookify.png" />
 </p>
 
 # Install Guide
