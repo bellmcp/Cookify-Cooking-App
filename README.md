@@ -17,9 +17,10 @@ Cookify is your on-the-go app for any delicious food recipes. Over 1,000,000 rec
 
 # What I Learned
 
-* Advance JavaScript features such as function constructors, prototypal inheritance, first-class functions, closures, the bind and apply methods, and more. 
-* Learn how to make JavaScript code interact with webpages: DOM manipulation.
-* Implementing MVC (Model-View-Controller) architecture: `BUDGET CONTROLLER`, `APP CONTROLLER` & `UI CONTROLLER`.
+* Learn how to organize and structure by using modules and functions, how to create data privacy and encapsulation.
+* Asynchronous JavaScript: the event loop, promises, async/await, AJAX calls and APIs.
+* Modern JavaScript: Learn how to set up a modern development workflow with NPM, Webpack, Babel and ES6 modules.
+* Implementing MVC (Model-View-Controller) architecture: `SEARCH CONTROLLER`, `RECIPE CONTROLLER`, `LIKE CONTROLLER` & `LIST CONTROLLER`.
 
 # License
 
