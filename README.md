@@ -32,6 +32,4 @@ Licensed under [The MIT License](https://github.com/bellmcp/4-Digit-Calculator/b
 
 All reading materials from this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You could use this repository as your reference as long as you give the attribution.
 
-This project is powered by [Forkify API](https://forkify-api.herokuapp.com).
-
 > Copyright © 2020 Wutipat Khamnuansin, All rights reserved.
