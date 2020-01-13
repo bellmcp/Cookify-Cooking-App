@@ -24,6 +24,10 @@ Cookify is your on-the-go app for any delicious food recipes. Over 1,000,000 rec
 
 # License
 
+### API
+
+This project is powered by [Forkify API](https://forkify-api.herokuapp.com).
+
 ### Source Code License
 
 Licensed under [The MIT License](https://github.com/bellmcp/4-Digit-Calculator/blob/master/LICENSE). You could use the source code for whatever you want as long as the LICENSE file or the license header in the source code still there.
@@ -31,9 +35,5 @@ Licensed under [The MIT License](https://github.com/bellmcp/4-Digit-Calculator/b
 ### Documentation License
 
 All reading materials from this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You could use this repository as your reference as long as you give the attribution.
-
-### API
-
-This project is powered by [Forkify API](https://forkify-api.herokuapp.com).
 
 > Copyright © 2020 Wutipat Khamnuansin, All rights reserved.
