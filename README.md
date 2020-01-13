@@ -1,5 +1,5 @@
 # Cookify
-Application that helps you manage and track your daily expenses. Designed to be simple and intuitive, this application will help you manage and always be aware of what is happening in your own wallet. A great budget manager for everyone who is concerned about their spending. 
+Cookify is your on-the-go app for any delicious food recipes. Over 1,000,000 recipes now at your fingertips. An app which serves as your own cookbook, an incredible search tool and a personalized shopping list.
 
 <br>
 <p align="center">
