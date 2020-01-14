@@ -22,6 +22,13 @@ Cookify is your on-the-go app for any delicious food recipes. Over 1,000,000 rec
 * Modern JavaScript: Learn how to set up a modern development workflow with NPM, Webpack, Babel and ES6 modules.
 * Implementing MVC (Model-View-Controller) architecture: `SEARCH CONTROLLER`, `RECIPE CONTROLLER`, `LIKE CONTROLLER` & `LIST CONTROLLER`.
 
+# Future Ideas Include
+
+* Implement button to delete all shopping list items.
+* Implement functionality to manually add items to shopping list.
+* Save shopping list data in local storage.
+* Improve error handling.
+
 # License
 
 ### Source Code License
