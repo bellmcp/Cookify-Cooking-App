@@ -6,6 +6,10 @@ Cookify is your on-the-go app for any delicious food recipes. Over 1,000,000 rec
   <img src="https://bellmcp.work/img/Projects_Cookify.png" />
 </p>
 
+# Demo
+
+* [https://cookify.azurewebsites.net/](https://https://cookify.azurewebsites.net/)
+
 # Install Guide
 
 * Download the complete package by hit the green button saying "Clone or download" then choose the "Download ZIP" option.
