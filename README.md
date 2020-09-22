@@ -8,7 +8,7 @@ Cookify is your on-the-go app for any delicious food recipes. Over 1,000,000 rec
 
 # Demo
 
-* [https://cookify.azurewebsites.net/](https://cookify.azurewebsites.net/) (Terminated)
+* [https://bellmcp-cookify.herokuapp.com](https://bellmcp-cookify.herokuapp.com)
 
 # Install Guide
 
